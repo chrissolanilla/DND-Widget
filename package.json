@@ -1,0 +1,20 @@
+{
+	"name": "DND",
+	"materia": {
+		"cleanName": "DND"
+	},
+	"version": "1.0.0",
+	"description": "Experimental DND widget",
+	"scripts": {
+		"start": "mwdk-start",
+		"build": "mwdk-build-prod",
+		"build-dev": "mwdk-build-dev"
+	},
+	"author": "UCF Center for Distributed Learning",
+	"license": "",
+	"dependencies": {
+		"materia-widget-development-kit": "^3.0.2",
+		"raw-loader": "^4.0.2",
+		"three": "^0.177.0"
+	}
+}
