@@ -15,7 +15,7 @@ body {
 	left: 0;
 	width: 100vw;
 	height: 100vh;
-	z-index: -1;
+	z-index: 1;
 	background-color: transparent;
 	// pointer-events: none; /* optional if you want mouse to go "through" the canvas */
 }

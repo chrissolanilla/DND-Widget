@@ -1,0 +1,11 @@
+Model Information:
+* title:	Penguini cactusini 3D model (Roblox R15)
+* source:	https://sketchfab.com/3d-models/penguini-cactusini-3d-model-roblox-r15-0e3f96a605804ae898580e3670f0f2eb
+* author:	Alex CGW (https://sketchfab.com/alex.cgwarrior)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Penguini cactusini 3D model (Roblox R15)" (https://sketchfab.com/3d-models/penguini-cactusini-3d-model-roblox-r15-0e3f96a605804ae898580e3670f0f2eb) by Alex CGW (https://sketchfab.com/alex.cgwarrior) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
